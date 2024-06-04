@@ -1,0 +1,3 @@
+# AREAS ACADEMICAS
+1. Tics
+2. Iee
